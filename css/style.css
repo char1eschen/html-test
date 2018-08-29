@@ -416,8 +416,7 @@ footer {
     width: 100%; } }
 @media (max-width: 767px) {
   .navbar-default {
-    border-color: rgba(255, 255, 255, 0.58);
-    margin-top: 15px; }
+    border-color: rgba(255, 255, 255, 0.58); }
     .navbar-default .navbar-collapse {
       border-color: transparent;
       background: rgba(255, 255, 255, 0.5); }
