@@ -467,8 +467,8 @@ footer {
     right: 30px;
     bottom: 30px; } }
 @media (max-width: 480px) {
-  #banner {
-    display: none; }
+  header .navbar {
+    position: relative; }
 
   .recent-listed {
     padding-top: 80px; }
