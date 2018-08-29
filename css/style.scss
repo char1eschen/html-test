@@ -603,8 +603,12 @@ footer {
 }
 
 @media (max-width: 480px) {
-  #banner {
-    display: none;
+
+  //#banner {
+  //  display: none;
+  //}
+  header .navbar {
+    position: relative;
   }
   .recent-listed {
     padding-top: 80px;
